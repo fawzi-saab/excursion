@@ -31,3 +31,6 @@ footer h4{
 	font-family: 'verdana', sans-serif;
 	text-align: right;
 }
+.benefits img {
+	max-width: 100%;
+}
